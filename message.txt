@@ -1,1 +1,2 @@
 message=Hellojhfgh
+thinh dep trai
