@@ -1,2 +1,3 @@
-message=Hellojhfgh thinh1
-thinh dep trai
+message=Hellojhfgh123333
+ddasdasd
+
